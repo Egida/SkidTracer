@@ -1,4 +1,4 @@
-![GitHub Logo](https://raw.githubusercontent.com/Z3NTL3/SkidTracer/main/skid%20tracer.png)<br>
+![GitHub Logo](https://media.discordapp.net/attachments/818755991994630177/861308358891405312/unknown.png?width=290&height=668)<br>
 # SkidTracer
 IP Checker and IP Address &amp; Info Gathering Tool. Very legit I guess.
 
